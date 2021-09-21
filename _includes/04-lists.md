@@ -1,3 +1,3 @@
-*Coding
-*Music
-*Art
+* Coding
+* Music
+* Art
